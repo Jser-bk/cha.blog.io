@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: jquery 实现购物车的价格计算和商品件数计算
+date: 2020-05-21
 categories: blog
-tags: [标签一,标签二]
+tags: [jquery,html]
 description: 文章金句。
 ---
-
-jquery 实现购物车的价格计算和商品件数计算
 
 html代码如下
 ```
